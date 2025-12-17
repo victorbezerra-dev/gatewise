@@ -134,6 +134,12 @@ Final authority always resides in the **backend**, enforced through:
 
 > Physical access is treated as a **security-critical operation**, not a convenience feature.
 
+## Authentication and Access Control Flow
+<p align="center">
+  <img  width="70%"  alt="gatewise-flow" src="https://github.com/user-attachments/assets/e22b1d1d-3911-44f4-9445-a3e12f3fe69f" />
+</p>
+
+
 ## 🧩 Technologies Used
 
 ### 🔌 Embedded / IoT
