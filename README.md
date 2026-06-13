@@ -16,6 +16,8 @@ The project combines IoT, cryptography, modern backend architectures, and mobile
 
 Designed for academic laboratories, research facilities, and controlled environments, GateWise prioritizes security by design, auditability, and scalability, while remaining practical for real-world deployment.
 
+##Hardware Image 
+<img width="500" height="700" alt="WhatsApp Image 2026-06-12 at 18 38 12" src="https://github.com/user-attachments/assets/95471b7d-224e-42ec-bbdc-267c214fd004" />
 
 ## 🧠 Core Concept
 
@@ -35,9 +37,9 @@ The GateWise ecosystem is divided into four complementary repositories:
 
 | Repository | Description |
 |------------|-------------|
-| [`gatewise-esp32`](https://github.com/victorbezerra-dev/gatewise-esp32) | Firmware for the ESP32 smart lock module (IoT, RSA verification, MQTT/HTTP) |
-| [`gatewise-app`](https://github.com/victorbezerra-dev/gatewise-app) | Mobile application for users to request access and confirm openings |
-| [`gatewise-backend`](https://github.com/victorbezerra-dev/gatewise-backend) | Backend (.NET + Keycloak + RabbitMQ) handling auth, rules, and signed commands |
+| [`gatewise-esp32`](https://github.com/victorbezerra-dev/gatewise-esp32) - Public Repo | Firmware for the ESP32 smart lock module (IoT, RSA verification, MQTT/HTTP) |
+| [`gatewise-app`](https://github.com/victorbezerra-dev/gatewise-app) - Private Repo | Mobile application for users to request access and confirm openings |
+| [`gatewise-backend`](https://github.com/victorbezerra-dev/gatewise-backend) - Private Repo | Backend (.NET + Keycloak + RabbitMQ) handling auth, rules, and signed commands |
 
 > 📌 This repository serves as the central documentation and entry point for the GateWise platform.
 
